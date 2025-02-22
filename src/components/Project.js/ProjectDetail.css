@@ -1,0 +1,12 @@
+#project{
+    border: 1px solid black;
+    height: 80%;
+    width: 90%;
+    padding: 33px;
+    /* margin-bottom: 12px; */
+    border-radius: 1rem;
+}
+#project h1{
+    text-align: center;
+    margin-bottom: 12px;
+}

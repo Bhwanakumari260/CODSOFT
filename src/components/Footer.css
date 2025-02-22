@@ -1,0 +1,21 @@
+#footer{
+    text-align: center;
+    bottom: 0;
+   
+}
+
+.icons{
+    color: white;
+    display: flex;
+    width: 10%;
+ 
+    justify-content: space-around;
+    font-size: 22px;
+   
+    bottom: 0;
+    margin: auto;
+   
+}
+.icons i{
+    margin-top: 22px;
+}
